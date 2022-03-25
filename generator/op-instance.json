@@ -1,0 +1,16 @@
+{
+	"name": "op-instance",
+	"comment": "Zarychta generated OP-Instance",
+	"type": "OP",
+	"dimension": 0,
+	"display_data_type": "COORD_DISPLAY",
+	"edge_weight_type": "EUC_2D",
+	"depots": [
+		0
+	],
+	"node_coordinates": [],
+	"edge_weights": null,
+	"prices": [],
+	"tmax": 0,
+	"tsp_length": -1
+}
